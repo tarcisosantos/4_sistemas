@@ -1,0 +1,18 @@
+TÓPICOS AVANÇADOS EM SISTEMAS PARA INTERNET -  Tecnologias Emergentes
+Aluno:  espinheiro neto  Data: 09/10/20
+
+Inteligência artificial e segurança:
+À medida que a hiperconectividade ganha seu espaço na sociedade, uma maior integração de dados também passa a ser presente. Os usuários, então, ficam mais e mais expostos à possíveis problemas relacionados a seus dados. Por isso, é de se esperar que haja um maior investimento em segurança aliada à Inteligência artificial.
+Proteção de sistemas de inteligência artificial;
+Antecipação do uso de inteligência artificial pelos invasores;
+Alavancar a inteligência artificial para aprimorar a defesa da segurança.
+Nuvem distribuída:
+Com a nuvem distribuída, os serviços passam da nuvem pública para diferentes locais. Dessa forma, o provedor público passar a ter a responsabilidade por operar, governar e atualizar os serviços.
+Enquanto isso, a nuvem distribuída permite seu acesso em diferentes localidades com servidores conectados a uma única rede ou hub de serviços.
+Hiperautomação:
+Uma automação cada vez mais generalizada e interligada. Essa é a proposta da hiperautomação. São conceitos como machine learning (ou aprendizado de máquinas e RPA (Processo de automação robótica).Essa automação diz respeito a uma maior autonomia de softwares e hardwares.
+Machine Learning:
+É um subconjunto da IA. Com Machine Learning, os computadores são programados para aprender a fazer algo que não estão programados para fazer: eles literalmente aprendem descobrindo padrões e insights a partir de dados. Em geral, temos dois tipos de aprendizado, supervisionados e não supervisionados.
+Os aplicativos de ML são usados para análise de dados, mineração de dados e reconhecimento de padrões. No lado do consumidor, o Machine Learning potencializa os resultados da pesquisa na Web, os anúncios em tempo real e a detecção de invasões na rede, para citar apenas algumas das muitas tarefas que ele pode realizar.
+Bioplásticos para uma economia circular:
+Menos de 15% do plástico do mundo é reciclado, com o restante incinerado, abandonado ou enviado para aterro. O plástico biodegradável oferece uma solução, mas não possui a força dos materiais convencionais. Uma ideia inovadora promove a economia circular usando celulose ou lignina a partir de resíduos vegetais, o que aumenta a força do material sem usar culturas que poderiam ser usadas para alimentos.
