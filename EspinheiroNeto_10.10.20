@@ -1,0 +1,24 @@
+BOOTSTRAP:
+	É um framework open-source para desenvolvimento web, voltado para componentes de interface e front-end que usa HTML, CSS e JavaScript. 
+	Tem como propósito tornar a experiência do usuário muito mais amigável e facilitando na responsividade do site. 
+
+LARAVEL:
+	É um framework de desenvolvimento web em PHP e atualmente um dos mais utilizados. 
+	O Laravel usa o MVC padrão, que é um padrão de arquitetura de software, 
+	que faz a separação da sua aplicação em 3 camadas:
+	Model: fica responsável pela leitura, escrita e validação dos dados. 
+	Ver: fica responsável pela interação com o usuário, exibindo os dados, seja por meio de um HTML ou XML.
+	Controller: responsável por receber todas as requisições dos usuários. Ele tem seus métodos que são chamados de ações,
+	e ficam responsáveis ​​por uma página, assim controlando qual modelo será usado e qual visualização será aplicada para o usuário.
+	Suas vantagens consistem em ser um framework simples e fácil de ser utilizado, com uma ampla utilização em projetos 
+	e consequentemente tendo uma comunidade muito ativa. Além disso, é um framework totalmente gratuito.
+
+GIT:
+	Utilizado por grande parte dos desenvolvedores de software, o Git é um sistema de controle de versão distribuída de código aberto, 
+	que nos possibilita criar todo um histórico de mudanças no código fonte do nosso projeto e permitir voltar para 
+	qualquer ponto que o código se encontrava em dados fornecidos, ou seja, retrocedendo qualquer mudança feita. 
+	Sua grande versatilidade está na simultaneidade no desenvolvimento do projeto por toda a equipe, facilitando e diminuindo 
+	custos durante todo o processo de desenvolvimento da aplicação. 
+	O Git trabalha com uma arquitetura em branch ou ramificações, e cada novo commit (ou seja, 
+	alteração no código-fonte) ele cria um novo ponto na ramificação atual. Quando se cria uma nova filial,
+	todos os commits realizados nessa nova ramificação, será independente da branch original.
