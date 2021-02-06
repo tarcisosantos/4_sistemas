@@ -1,2 +1,2 @@
-# 4_sistemas
+# Estudando Git-Hub
 Faculdade META - Tecnologias Emergentes
